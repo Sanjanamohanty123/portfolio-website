@@ -10,4 +10,4 @@ It contains my profile, skills, and projects section.
 - Projects showcase
 
 ## How to view
-Click the link to visit: [Live Website]
+Click the link to visit: [Live Website](https://sanjanamohanty123.github.io/portfolio-website/)
